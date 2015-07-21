@@ -1,6 +1,6 @@
 <?php
 
-namespace Pem\BookBundle\DependencyInjection;
+namespace Pem\ProjectBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

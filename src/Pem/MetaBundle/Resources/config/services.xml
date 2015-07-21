@@ -6,7 +6,7 @@
 
     <!--
     <services>
-        <service id="pem_book.example" class="Pem\BookBundle\Example">
+        <service id="pem_meta.example" class="Pem\MetaBundle\Example">
             <argument type="service" id="service_id" />
             <argument>plain_value</argument>
             <argument>%parameter_name%</argument>

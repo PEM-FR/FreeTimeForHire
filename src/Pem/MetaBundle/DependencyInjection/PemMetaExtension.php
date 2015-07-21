@@ -1,6 +1,6 @@
 <?php
 
-namespace Pem\BookBundle\DependencyInjection;
+namespace Pem\MetaBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
@@ -12,7 +12,7 @@ use Symfony\Component\DependencyInjection\Loader;
  *
  * To learn more see {@link http://symfony.com/doc/current/cookbook/bundles/extension.html}
  */
-class PemBookExtension extends Extension
+class PemMetaExtension extends Extension
 {
     /**
      * {@inheritdoc}

@@ -1,6 +1,6 @@
 <?php
 
-namespace Pem\BookBundle\Controller;
+namespace Pem\MetaBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;

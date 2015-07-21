@@ -1,5 +1,10 @@
+pem_meta:
+    resource: "@PemMetaBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 pem_book:
-    resource: "@PemBookBundle/Controller/"
+    resource: "@PemProjectBundle/Controller/"
     type:     annotation
     prefix:   /
 

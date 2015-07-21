@@ -1,6 +1,6 @@
 <?php
 
-namespace Pem\BookBundle\Tests\Controller;
+namespace Pem\MetaBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

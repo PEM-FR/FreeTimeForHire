@@ -1,9 +1,9 @@
 <?php
 
-namespace Pem\BookBundle;
+namespace Pem\MetaBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class PemBookBundle extends Bundle
+class PemMetaBundle extends Bundle
 {
 }
