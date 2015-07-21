@@ -1,0 +1,4 @@
+vendor/*
+.DS*
+app/config/parameters.yml
+.idea/*
