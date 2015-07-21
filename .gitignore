@@ -1,5 +1,4 @@
 # MAC OS shits and PHPStorm files
-.DS*
 .idea/
 
 # Cache and logs (Symfony2)
