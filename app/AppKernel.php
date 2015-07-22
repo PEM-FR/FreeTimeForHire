@@ -20,6 +20,7 @@ class AppKernel extends Kernel
             new Pem\ProjectBundle\PemProjectBundle(),
             new Doctrine\Bundle\CouchDBBundle\DoctrineCouchDBBundle(),
             new Pem\MetaBundle\PemMetaBundle(),
+            new Stof\DoctrineExtensionsBundle\StofDoctrineExtensionsBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
